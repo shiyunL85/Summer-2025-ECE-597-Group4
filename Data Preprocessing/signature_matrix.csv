@@ -1,0 +1,12 @@
+Feature,% Emails with Trait
+Contains IP-based URL,0.4
+Uses Shortened URL,6.6
+Links to Free Host,2.1
+Starts with “Dear Customer”,0.2
+Contains HTML Anchor Tags,0.0
+Contains Base64 Content,0.0
+Image-Only Email,1.4
+Has Suspicious Attachment,13.0
+Uses Passive Voice,41.5
+Includes Threat Words,10.9
+Includes Reward Words,13.8
