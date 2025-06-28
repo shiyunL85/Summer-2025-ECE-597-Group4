@@ -133,10 +133,3 @@ This project is a **comprehensive forensic and behavioral analysis** of phishing
 > The notebook processes the dataset, extracts features, generates charts, and saves final `.csv` outputs.
 
 ---
-
-## License
-
-**MIT License** – © 2025 Alpar Arman
-
-Feel free to use, modify, and distribute – a citation or star is always appreciated!
-This project is intended for educational and research purposes only.
